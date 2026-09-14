@@ -1,0 +1,1266 @@
+{
+  "Enrollment": {
+    "Linear Regression": [
+      {
+        "Feature": "CourseCategory_Data Science",
+        "Importance": 13.287016977156826
+      },
+      {
+        "Feature": "PriceBand_Medium",
+        "Importance": 10.853264023880273
+      },
+      {
+        "Feature": "PriceBand_Low",
+        "Importance": 9.386545390593877
+      },
+      {
+        "Feature": "CourseCategory_Artificial Intelligence",
+        "Importance": 8.411694391187815
+      },
+      {
+        "Feature": "CourseCategory_Project Management",
+        "Importance": 7.335000084955605
+      },
+      {
+        "Feature": "CourseCategory_Programming",
+        "Importance": 7.168629497352049
+      },
+      {
+        "Feature": "CourseCategory_Finance",
+        "Importance": 6.866141011687095
+      },
+      {
+        "Feature": "CourseCategory_Digital Marketing",
+        "Importance": 5.657078570926155
+      },
+      {
+        "Feature": "CourseRatingTier_Low",
+        "Importance": 5.473176877084332
+      },
+      {
+        "Feature": "DurationBucket_Short",
+        "Importance": 4.117111257546207
+      },
+      {
+        "Feature": "CourseCategory_Web Development",
+        "Importance": 3.910440169579868
+      },
+      {
+        "Feature": "CourseDuration",
+        "Importance": 3.782423889658795
+      },
+      {
+        "Feature": "CourseRatingTier_High",
+        "Importance": 3.4832619488289267
+      },
+      {
+        "Feature": "CourseCategory_Business",
+        "Importance": 3.080733997925171
+      },
+      {
+        "Feature": "CourseCategory_Cybersecurity",
+        "Importance": 3.066139746336952
+      },
+      {
+        "Feature": "CoursePrice",
+        "Importance": 2.920946719260469
+      },
+      {
+        "Feature": "TeacherExperienceYears",
+        "Importance": 2.6945439268133216
+      },
+      {
+        "Feature": "IsPaid",
+        "Importance": 2.3375111546243352
+      },
+      {
+        "Feature": "DurationBucket_Medium",
+        "Importance": 2.0635850845016237
+      },
+      {
+        "Feature": "DurationBucket_Long",
+        "Importance": 2.053526173044574
+      },
+      {
+        "Feature": "CourseRatingTier_Average",
+        "Importance": 1.989914928255403
+      },
+      {
+        "Feature": "ExpertiseCategoryMatchScore",
+        "Importance": 1.879773339652201
+      },
+      {
+        "Feature": "CourseCategory_Machine Learning",
+        "Importance": 1.708827056509463
+      },
+      {
+        "Feature": "CourseRating",
+        "Importance": 1.4036032585125748
+      },
+      {
+        "Feature": "TeacherRatingScore",
+        "Importance": 1.364793723103965
+      },
+      {
+        "Feature": "CourseCategory_Design",
+        "Importance": 1.32754983777041
+      },
+      {
+        "Feature": "PriceBand_Free",
+        "Importance": 1.1264335583210343
+      },
+      {
+        "Feature": "CourseLevelEncoded",
+        "Importance": 1.049113313758335
+      },
+      {
+        "Feature": "CourseCategory_Marketing",
+        "Importance": 1.0397562303313426
+      },
+      {
+        "Feature": "PriceBand_High",
+        "Importance": 0.34028507496539745
+      },
+      {
+        "Feature": "InstructorExperienceBucket_Senior",
+        "Importance": 0.0
+      }
+    ],
+    "Ridge Regression": [
+      {
+        "Feature": "CourseRating",
+        "Importance": 0.9216220048035371
+      },
+      {
+        "Feature": "CourseRatingTier_Low",
+        "Importance": 0.7287876362685224
+      },
+      {
+        "Feature": "CourseRatingTier_Average",
+        "Importance": 0.5209097260298592
+      },
+      {
+        "Feature": "CoursePrice",
+        "Importance": 0.4758393258340297
+      },
+      {
+        "Feature": "CourseCategory_Data Science",
+        "Importance": 0.4553097768752436
+      },
+      {
+        "Feature": "CourseDuration",
+        "Importance": 0.442151783922544
+      },
+      {
+        "Feature": "IsPaid",
+        "Importance": 0.40141521191665763
+      },
+      {
+        "Feature": "TeacherExperienceYears",
+        "Importance": 0.3824763051823492
+      },
+      {
+        "Feature": "CourseCategory_Programming",
+        "Importance": 0.2859048281948169
+      },
+      {
+        "Feature": "PriceBand_Medium",
+        "Importance": 0.2787588174072262
+      },
+      {
+        "Feature": "CourseRatingTier_High",
+        "Importance": 0.20787791023866337
+      },
+      {
+        "Feature": "CourseCategory_Artificial Intelligence",
+        "Importance": 0.1949430612533994
+      },
+      {
+        "Feature": "PriceBand_Free",
+        "Importance": 0.19343974664203697
+      },
+      {
+        "Feature": "PriceBand_Low",
+        "Importance": 0.18627764978862865
+      },
+      {
+        "Feature": "CourseCategory_Design",
+        "Importance": 0.1717578256552148
+      },
+      {
+        "Feature": "ExpertiseCategoryMatchScore",
+        "Importance": 0.15487107622461924
+      },
+      {
+        "Feature": "CourseLevelEncoded",
+        "Importance": 0.14820612503637715
+      },
+      {
+        "Feature": "TeacherRatingScore",
+        "Importance": 0.14657951487071394
+      },
+      {
+        "Feature": "CourseCategory_Digital Marketing",
+        "Importance": 0.11802567518959571
+      },
+      {
+        "Feature": "CourseCategory_Finance",
+        "Importance": 0.11130182759219263
+      },
+      {
+        "Feature": "CourseCategory_Web Development",
+        "Importance": 0.10523850924918977
+      },
+      {
+        "Feature": "PriceBand_High",
+        "Importance": 0.10095857902343938
+      },
+      {
+        "Feature": "DurationBucket_Short",
+        "Importance": 0.09490779130835056
+      },
+      {
+        "Feature": "CourseCategory_Project Management",
+        "Importance": 0.07826976343222877
+      },
+      {
+        "Feature": "CourseCategory_Machine Learning",
+        "Importance": 0.07075147301926817
+      },
+      {
+        "Feature": "CourseCategory_Marketing",
+        "Importance": 0.05470091876720485
+      },
+      {
+        "Feature": "DurationBucket_Long",
+        "Importance": 0.05061825663887018
+      },
+      {
+        "Feature": "DurationBucket_Medium",
+        "Importance": 0.044289534669480324
+      },
+      {
+        "Feature": "CourseCategory_Cybersecurity",
+        "Importance": 0.03903625630317209
+      },
+      {
+        "Feature": "CourseCategory_Business",
+        "Importance": 0.02741582511273903
+      },
+      {
+        "Feature": "InstructorExperienceBucket_Senior",
+        "Importance": 0.0
+      }
+    ],
+    "Lasso Regression": [
+      {
+        "Feature": "CourseRating",
+        "Importance": 1.3127576542071764
+      },
+      {
+        "Feature": "CoursePrice",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "CourseDuration",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "CourseLevelEncoded",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "IsPaid",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "TeacherExperienceYears",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "TeacherRatingScore",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "ExpertiseCategoryMatchScore",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "CourseCategory_Artificial Intelligence",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "CourseCategory_Business",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "CourseCategory_Cybersecurity",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "CourseCategory_Data Science",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "CourseCategory_Design",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "CourseCategory_Digital Marketing",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "CourseCategory_Finance",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "CourseCategory_Machine Learning",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "CourseCategory_Marketing",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "CourseCategory_Programming",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "CourseCategory_Project Management",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "CourseCategory_Web Development",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "PriceBand_Free",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "PriceBand_High",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "PriceBand_Low",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "PriceBand_Medium",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "DurationBucket_Long",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "DurationBucket_Medium",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "DurationBucket_Short",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "CourseRatingTier_Average",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "CourseRatingTier_High",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "CourseRatingTier_Low",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "InstructorExperienceBucket_Senior",
+        "Importance": 0.0
+      }
+    ],
+    "Random Forest": [
+      {
+        "Feature": "CourseRating",
+        "Importance": 0.26464488256042346
+      },
+      {
+        "Feature": "CourseDuration",
+        "Importance": 0.2526792047172758
+      },
+      {
+        "Feature": "TeacherExperienceYears",
+        "Importance": 0.11081959118357528
+      },
+      {
+        "Feature": "TeacherRatingScore",
+        "Importance": 0.09934555365332029
+      },
+      {
+        "Feature": "CourseLevelEncoded",
+        "Importance": 0.043401606187471395
+      },
+      {
+        "Feature": "CourseCategory_Data Science",
+        "Importance": 0.037911602940261614
+      },
+      {
+        "Feature": "CourseCategory_Programming",
+        "Importance": 0.025881323342157956
+      },
+      {
+        "Feature": "CourseRatingTier_Average",
+        "Importance": 0.021560615284992257
+      },
+      {
+        "Feature": "CourseCategory_Design",
+        "Importance": 0.01622102313938652
+      },
+      {
+        "Feature": "CourseCategory_Project Management",
+        "Importance": 0.010620453352590958
+      },
+      {
+        "Feature": "PriceBand_Medium",
+        "Importance": 0.010468668328265148
+      },
+      {
+        "Feature": "CourseRatingTier_Low",
+        "Importance": 0.01018117604028325
+      },
+      {
+        "Feature": "CoursePrice",
+        "Importance": 0.009977873936090093
+      },
+      {
+        "Feature": "CourseCategory_Artificial Intelligence",
+        "Importance": 0.009938531987339705
+      },
+      {
+        "Feature": "CourseCategory_Web Development",
+        "Importance": 0.007863767803065724
+      },
+      {
+        "Feature": "DurationBucket_Medium",
+        "Importance": 0.007500280840587284
+      },
+      {
+        "Feature": "ExpertiseCategoryMatchScore",
+        "Importance": 0.00743876611354738
+      },
+      {
+        "Feature": "DurationBucket_Short",
+        "Importance": 0.006439635958274335
+      },
+      {
+        "Feature": "PriceBand_Free",
+        "Importance": 0.0061128276012653564
+      },
+      {
+        "Feature": "DurationBucket_Long",
+        "Importance": 0.005772395923240872
+      },
+      {
+        "Feature": "IsPaid",
+        "Importance": 0.005328042653175128
+      },
+      {
+        "Feature": "PriceBand_High",
+        "Importance": 0.005188339388601133
+      },
+      {
+        "Feature": "PriceBand_Low",
+        "Importance": 0.00491463769766276
+      },
+      {
+        "Feature": "CourseRatingTier_High",
+        "Importance": 0.003946299132312455
+      },
+      {
+        "Feature": "CourseCategory_Machine Learning",
+        "Importance": 0.003693896771365046
+      },
+      {
+        "Feature": "CourseCategory_Marketing",
+        "Importance": 0.0031555315899048715
+      },
+      {
+        "Feature": "CourseCategory_Finance",
+        "Importance": 0.0030466848555489525
+      },
+      {
+        "Feature": "CourseCategory_Business",
+        "Importance": 0.002001915470977519
+      },
+      {
+        "Feature": "CourseCategory_Cybersecurity",
+        "Importance": 0.001973625585145818
+      },
+      {
+        "Feature": "CourseCategory_Digital Marketing",
+        "Importance": 0.0019712459618918096
+      },
+      {
+        "Feature": "InstructorExperienceBucket_Senior",
+        "Importance": 0.0
+      }
+    ],
+    "Gradient Boosting": [
+      {
+        "Feature": "CourseDuration",
+        "Importance": 0.31175475424366367
+      },
+      {
+        "Feature": "CourseRating",
+        "Importance": 0.2965878917655845
+      },
+      {
+        "Feature": "TeacherRatingScore",
+        "Importance": 0.14927146345272843
+      },
+      {
+        "Feature": "TeacherExperienceYears",
+        "Importance": 0.08766273567210599
+      },
+      {
+        "Feature": "CourseLevelEncoded",
+        "Importance": 0.049749109149285896
+      },
+      {
+        "Feature": "CourseCategory_Programming",
+        "Importance": 0.03400616502401428
+      },
+      {
+        "Feature": "CourseCategory_Design",
+        "Importance": 0.014697410723106352
+      },
+      {
+        "Feature": "CourseCategory_Data Science",
+        "Importance": 0.013732058506506243
+      },
+      {
+        "Feature": "DurationBucket_Long",
+        "Importance": 0.0069381609898105465
+      },
+      {
+        "Feature": "CourseRatingTier_Average",
+        "Importance": 0.00679664986381042
+      },
+      {
+        "Feature": "CourseCategory_Project Management",
+        "Importance": 0.006559299861591281
+      },
+      {
+        "Feature": "CourseCategory_Artificial Intelligence",
+        "Importance": 0.004562942399766425
+      },
+      {
+        "Feature": "CoursePrice",
+        "Importance": 0.0032858251907991135
+      },
+      {
+        "Feature": "CourseCategory_Finance",
+        "Importance": 0.002856963203347901
+      },
+      {
+        "Feature": "PriceBand_Medium",
+        "Importance": 0.002261217923263921
+      },
+      {
+        "Feature": "CourseCategory_Marketing",
+        "Importance": 0.0015144415550220425
+      },
+      {
+        "Feature": "ExpertiseCategoryMatchScore",
+        "Importance": 0.001228524056148432
+      },
+      {
+        "Feature": "CourseCategory_Web Development",
+        "Importance": 0.001210333962631843
+      },
+      {
+        "Feature": "CourseRatingTier_Low",
+        "Importance": 0.0009340993676620463
+      },
+      {
+        "Feature": "DurationBucket_Medium",
+        "Importance": 0.0008393836562891346
+      },
+      {
+        "Feature": "DurationBucket_Short",
+        "Importance": 0.0007804846123872118
+      },
+      {
+        "Feature": "CourseCategory_Cybersecurity",
+        "Importance": 0.0005912885574370806
+      },
+      {
+        "Feature": "CourseRatingTier_High",
+        "Importance": 0.0005552449412327212
+      },
+      {
+        "Feature": "PriceBand_Low",
+        "Importance": 0.0003937848974638143
+      },
+      {
+        "Feature": "PriceBand_High",
+        "Importance": 0.0003379617399508133
+      },
+      {
+        "Feature": "IsPaid",
+        "Importance": 0.0003329184191715478
+      },
+      {
+        "Feature": "CourseCategory_Business",
+        "Importance": 0.00029176661250698876
+      },
+      {
+        "Feature": "PriceBand_Free",
+        "Importance": 0.0002501847608019029
+      },
+      {
+        "Feature": "CourseCategory_Digital Marketing",
+        "Importance": 1.6530209170772062e-05
+      },
+      {
+        "Feature": "CourseCategory_Machine Learning",
+        "Importance": 4.0468273850378325e-07
+      },
+      {
+        "Feature": "InstructorExperienceBucket_Senior",
+        "Importance": 0.0
+      }
+    ]
+  },
+  "Revenue": {
+    "Linear Regression": [
+      {
+        "Feature": "CoursePrice",
+        "Importance": 28095.718212496125
+      },
+      {
+        "Feature": "PriceBand_Low",
+        "Importance": 3233.513811443069
+      },
+      {
+        "Feature": "CourseCategory_Artificial Intelligence",
+        "Importance": 2810.7306964308427
+      },
+      {
+        "Feature": "PriceBand_High",
+        "Importance": 2524.480181914772
+      },
+      {
+        "Feature": "CourseCategory_Data Science",
+        "Importance": 2235.790312509266
+      },
+      {
+        "Feature": "CourseCategory_Machine Learning",
+        "Importance": 1695.5486676494659
+      },
+      {
+        "Feature": "CourseCategory_Finance",
+        "Importance": 1562.8684827926434
+      },
+      {
+        "Feature": "CourseCategory_Project Management",
+        "Importance": 1490.7816013982474
+      },
+      {
+        "Feature": "DurationBucket_Short",
+        "Importance": 1396.7074462003727
+      },
+      {
+        "Feature": "DurationBucket_Long",
+        "Importance": 1316.3381731239062
+      },
+      {
+        "Feature": "PriceBand_Medium",
+        "Importance": 1290.8108102136039
+      },
+      {
+        "Feature": "IsPaid",
+        "Importance": 1207.2710718817507
+      },
+      {
+        "Feature": "TeacherExperienceYears",
+        "Importance": 1159.2047198117318
+      },
+      {
+        "Feature": "CourseCategory_Marketing",
+        "Importance": 916.4649774050471
+      },
+      {
+        "Feature": "CourseDuration",
+        "Importance": 822.1639105701215
+      },
+      {
+        "Feature": "CourseCategory_Web Development",
+        "Importance": 811.8977075287198
+      },
+      {
+        "Feature": "CourseCategory_Business",
+        "Importance": 787.2721771215779
+      },
+      {
+        "Feature": "PriceBand_Free",
+        "Importance": 581.7771806852987
+      },
+      {
+        "Feature": "CourseCategory_Digital Marketing",
+        "Importance": 388.1390460125538
+      },
+      {
+        "Feature": "CourseCategory_Cybersecurity",
+        "Importance": 296.19335737000756
+      },
+      {
+        "Feature": "CourseRatingTier_Low",
+        "Importance": 259.11939577625725
+      },
+      {
+        "Feature": "CourseRating",
+        "Importance": 200.42405519241606
+      },
+      {
+        "Feature": "TeacherRatingScore",
+        "Importance": 176.76447542528965
+      },
+      {
+        "Feature": "CourseLevelEncoded",
+        "Importance": 150.25850391383867
+      },
+      {
+        "Feature": "CourseRatingTier_High",
+        "Importance": 147.12531505785918
+      },
+      {
+        "Feature": "CourseCategory_Design",
+        "Importance": 122.07478028419332
+      },
+      {
+        "Feature": "CourseRatingTier_Average",
+        "Importance": 111.99408071839571
+      },
+      {
+        "Feature": "DurationBucket_Medium",
+        "Importance": 80.36927307646643
+      },
+      {
+        "Feature": "CourseCategory_Programming",
+        "Importance": 70.32703373295698
+      },
+      {
+        "Feature": "ExpertiseCategoryMatchScore",
+        "Importance": 35.46373395309301
+      },
+      {
+        "Feature": "InstructorExperienceBucket_Senior",
+        "Importance": 0.0
+      }
+    ],
+    "Ridge Regression": [
+      {
+        "Feature": "CoursePrice",
+        "Importance": 24559.203701173385
+      },
+      {
+        "Feature": "PriceBand_High",
+        "Importance": 1706.5697588073763
+      },
+      {
+        "Feature": "PriceBand_Medium",
+        "Importance": 1495.6196394868139
+      },
+      {
+        "Feature": "CourseCategory_Finance",
+        "Importance": 1427.3134821301633
+      },
+      {
+        "Feature": "CourseCategory_Data Science",
+        "Importance": 1330.8925519658437
+      },
+      {
+        "Feature": "DurationBucket_Long",
+        "Importance": 1231.085393314832
+      },
+      {
+        "Feature": "CourseCategory_Business",
+        "Importance": 1114.0163029586602
+      },
+      {
+        "Feature": "CourseCategory_Design",
+        "Importance": 1041.0821421433432
+      },
+      {
+        "Feature": "DurationBucket_Short",
+        "Importance": 960.8143984955141
+      },
+      {
+        "Feature": "CourseCategory_Marketing",
+        "Importance": 872.6407435753222
+      },
+      {
+        "Feature": "CourseCategory_Artificial Intelligence",
+        "Importance": 808.1012917403918
+      },
+      {
+        "Feature": "TeacherExperienceYears",
+        "Importance": 772.4529584474162
+      },
+      {
+        "Feature": "CourseDuration",
+        "Importance": 747.7988735005856
+      },
+      {
+        "Feature": "CourseCategory_Web Development",
+        "Importance": 611.3034822119826
+      },
+      {
+        "Feature": "CourseCategory_Machine Learning",
+        "Importance": 597.8801597417169
+      },
+      {
+        "Feature": "CourseCategory_Project Management",
+        "Importance": 501.8949548116634
+      },
+      {
+        "Feature": "CourseCategory_Programming",
+        "Importance": 464.3082795522332
+      },
+      {
+        "Feature": "TeacherRatingScore",
+        "Importance": 451.64204783576497
+      },
+      {
+        "Feature": "CourseRatingTier_Low",
+        "Importance": 448.1369315088996
+      },
+      {
+        "Feature": "CourseRatingTier_High",
+        "Importance": 424.0194215473184
+      },
+      {
+        "Feature": "CourseRating",
+        "Importance": 350.4661225136815
+      },
+      {
+        "Feature": "IsPaid",
+        "Importance": 319.5100084922051
+      },
+      {
+        "Feature": "CourseCategory_Cybersecurity",
+        "Importance": 316.35910715571526
+      },
+      {
+        "Feature": "ExpertiseCategoryMatchScore",
+        "Importance": 270.41546235447186
+      },
+      {
+        "Feature": "DurationBucket_Medium",
+        "Importance": 270.27099481931054
+      },
+      {
+        "Feature": "PriceBand_Free",
+        "Importance": 153.97008697607453
+      },
+      {
+        "Feature": "CourseCategory_Digital Marketing",
+        "Importance": 108.3075260834139
+      },
+      {
+        "Feature": "CourseLevelEncoded",
+        "Importance": 60.75357779987462
+      },
+      {
+        "Feature": "PriceBand_Low",
+        "Importance": 56.98003234448902
+      },
+      {
+        "Feature": "CourseRatingTier_Average",
+        "Importance": 24.117509961582982
+      },
+      {
+        "Feature": "InstructorExperienceBucket_Senior",
+        "Importance": 0.0
+      }
+    ],
+    "Lasso Regression": [
+      {
+        "Feature": "CoursePrice",
+        "Importance": 24821.622045301152
+      },
+      {
+        "Feature": "CourseDuration",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "CourseRating",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "CourseLevelEncoded",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "IsPaid",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "TeacherExperienceYears",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "TeacherRatingScore",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "ExpertiseCategoryMatchScore",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "CourseCategory_Artificial Intelligence",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "CourseCategory_Business",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "CourseCategory_Cybersecurity",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "CourseCategory_Data Science",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "CourseCategory_Design",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "CourseCategory_Digital Marketing",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "CourseCategory_Finance",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "CourseCategory_Machine Learning",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "CourseCategory_Marketing",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "CourseCategory_Programming",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "CourseCategory_Project Management",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "CourseCategory_Web Development",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "PriceBand_Free",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "PriceBand_High",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "PriceBand_Low",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "PriceBand_Medium",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "DurationBucket_Long",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "DurationBucket_Medium",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "DurationBucket_Short",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "CourseRatingTier_Average",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "CourseRatingTier_High",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "CourseRatingTier_Low",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "InstructorExperienceBucket_Senior",
+        "Importance": 0.0
+      }
+    ],
+    "Random Forest": [
+      {
+        "Feature": "CoursePrice",
+        "Importance": 0.7680034294853703
+      },
+      {
+        "Feature": "PriceBand_High",
+        "Importance": 0.19066377474300913
+      },
+      {
+        "Feature": "TeacherExperienceYears",
+        "Importance": 0.008654011523523982
+      },
+      {
+        "Feature": "CourseRatingTier_Low",
+        "Importance": 0.006098852901989113
+      },
+      {
+        "Feature": "CourseRating",
+        "Importance": 0.005942622217338692
+      },
+      {
+        "Feature": "TeacherRatingScore",
+        "Importance": 0.005794285308701243
+      },
+      {
+        "Feature": "PriceBand_Medium",
+        "Importance": 0.002577399347362618
+      },
+      {
+        "Feature": "IsPaid",
+        "Importance": 0.0022584258636686
+      },
+      {
+        "Feature": "CourseDuration",
+        "Importance": 0.00224002046758337
+      },
+      {
+        "Feature": "PriceBand_Free",
+        "Importance": 0.001233125878317075
+      },
+      {
+        "Feature": "CourseCategory_Project Management",
+        "Importance": 0.0011512751784772287
+      },
+      {
+        "Feature": "ExpertiseCategoryMatchScore",
+        "Importance": 0.000811779024656013
+      },
+      {
+        "Feature": "CourseCategory_Artificial Intelligence",
+        "Importance": 0.0008074592437058483
+      },
+      {
+        "Feature": "CourseRatingTier_Average",
+        "Importance": 0.0007926982624934764
+      },
+      {
+        "Feature": "DurationBucket_Medium",
+        "Importance": 0.0006608174919209049
+      },
+      {
+        "Feature": "DurationBucket_Long",
+        "Importance": 0.0005580847624062896
+      },
+      {
+        "Feature": "CourseLevelEncoded",
+        "Importance": 0.00038018185928709054
+      },
+      {
+        "Feature": "PriceBand_Low",
+        "Importance": 0.0003437380654157722
+      },
+      {
+        "Feature": "DurationBucket_Short",
+        "Importance": 0.000329724268062683
+      },
+      {
+        "Feature": "CourseCategory_Business",
+        "Importance": 0.0002500107109815174
+      },
+      {
+        "Feature": "CourseCategory_Design",
+        "Importance": 0.00017958944520410063
+      },
+      {
+        "Feature": "CourseRatingTier_High",
+        "Importance": 0.00015101618504305495
+      },
+      {
+        "Feature": "CourseCategory_Programming",
+        "Importance": 6.632482676509158e-05
+      },
+      {
+        "Feature": "CourseCategory_Finance",
+        "Importance": 4.057590885481029e-05
+      },
+      {
+        "Feature": "CourseCategory_Data Science",
+        "Importance": 6.6261603676680635e-06
+      },
+      {
+        "Feature": "CourseCategory_Web Development",
+        "Importance": 4.1380884690373345e-06
+      },
+      {
+        "Feature": "CourseCategory_Machine Learning",
+        "Importance": 1.27810252869888e-08
+      },
+      {
+        "Feature": "CourseCategory_Digital Marketing",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "CourseCategory_Cybersecurity",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "CourseCategory_Marketing",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "InstructorExperienceBucket_Senior",
+        "Importance": 0.0
+      }
+    ],
+    "Gradient Boosting": [
+      {
+        "Feature": "CoursePrice",
+        "Importance": 0.9917674300650698
+      },
+      {
+        "Feature": "CourseRating",
+        "Importance": 0.002420926739674741
+      },
+      {
+        "Feature": "DurationBucket_Medium",
+        "Importance": 0.0014069086987630389
+      },
+      {
+        "Feature": "TeacherExperienceYears",
+        "Importance": 0.001202469650007248
+      },
+      {
+        "Feature": "TeacherRatingScore",
+        "Importance": 0.0007431184959459556
+      },
+      {
+        "Feature": "ExpertiseCategoryMatchScore",
+        "Importance": 0.0005653935246909492
+      },
+      {
+        "Feature": "CourseCategory_Business",
+        "Importance": 0.00040201451804267664
+      },
+      {
+        "Feature": "CourseCategory_Project Management",
+        "Importance": 0.0002682923220035048
+      },
+      {
+        "Feature": "CourseCategory_Artificial Intelligence",
+        "Importance": 0.00026559568169079727
+      },
+      {
+        "Feature": "DurationBucket_Long",
+        "Importance": 0.0002065401753837374
+      },
+      {
+        "Feature": "PriceBand_Medium",
+        "Importance": 0.00018621383454170399
+      },
+      {
+        "Feature": "DurationBucket_Short",
+        "Importance": 0.0001623692678131314
+      },
+      {
+        "Feature": "CourseCategory_Design",
+        "Importance": 0.00012979904075912586
+      },
+      {
+        "Feature": "PriceBand_Low",
+        "Importance": 0.00011958559001284242
+      },
+      {
+        "Feature": "CourseLevelEncoded",
+        "Importance": 4.6472884128095075e-05
+      },
+      {
+        "Feature": "CourseDuration",
+        "Importance": 4.416205518211879e-05
+      },
+      {
+        "Feature": "CourseCategory_Programming",
+        "Importance": 3.6358503747139854e-05
+      },
+      {
+        "Feature": "PriceBand_High",
+        "Importance": 8.761497396640097e-06
+      },
+      {
+        "Feature": "CourseRatingTier_High",
+        "Importance": 8.595813474695059e-06
+      },
+      {
+        "Feature": "CourseRatingTier_Average",
+        "Importance": 4.333529221676495e-06
+      },
+      {
+        "Feature": "CourseCategory_Finance",
+        "Importance": 3.1999645294504295e-06
+      },
+      {
+        "Feature": "CourseCategory_Web Development",
+        "Importance": 1.1442492940091277e-06
+      },
+      {
+        "Feature": "IsPaid",
+        "Importance": 1.7772780129713125e-07
+      },
+      {
+        "Feature": "PriceBand_Free",
+        "Importance": 6.267872722250132e-08
+      },
+      {
+        "Feature": "CourseRatingTier_Low",
+        "Importance": 5.2651939734557895e-08
+      },
+      {
+        "Feature": "CourseCategory_Data Science",
+        "Importance": 2.0840158697683136e-08
+      },
+      {
+        "Feature": "CourseCategory_Cybersecurity",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "CourseCategory_Digital Marketing",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "CourseCategory_Machine Learning",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "CourseCategory_Marketing",
+        "Importance": 0.0
+      },
+      {
+        "Feature": "InstructorExperienceBucket_Senior",
+        "Importance": 0.0
+      }
+    ]
+  }
+}
